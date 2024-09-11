@@ -1,0 +1,10 @@
+Crud completo de pet shop utilizando mangoDb, express, routes, etc.
+
+# Cliente:
+nome (string)
+enfereco (middleware via cep)
+numero_casa (string)
+telefone (string)
+
+# Pet:
+nome (string)
