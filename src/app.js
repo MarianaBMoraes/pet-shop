@@ -4,7 +4,7 @@ const cliente_routes = require("./routes/cliente_route.js");
 const pet_routes = require("./routes/pet_route.js");
 
 const app = express();
-const port = 4000;
+const port = 10000;
 
 // Conectar ao banco de dados
 connectDB();
